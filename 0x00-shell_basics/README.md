@@ -1,1 +1,1 @@
-The following bash script prints out the path of the working directory
+Script that lists items in the current working directory
