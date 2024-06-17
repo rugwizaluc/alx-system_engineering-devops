@@ -1,2 +1,0 @@
-#!/bin/bash
-sync -f --include="*.html" --exclude="*" "$(realpath .)/" "$(realpath ..)/"
